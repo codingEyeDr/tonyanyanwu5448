@@ -1,7 +1,6 @@
 
 # Hi, I'm Tony Anyanwu! 👋
 
-## Frontend Developer
 ## 🚀 About Me
 I'm a Frontend Developer/ Website Designer. I have loved everything about coding and website design, so developed a particular interest in this field. I create amazing and responsive websites and mobile app designs that meet clients' wants while satisfying customers' needs. I'm also knowledgeable in UI/UX designs, therefore everything about your design is in the right hand.
 
