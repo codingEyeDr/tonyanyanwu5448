@@ -11,5 +11,5 @@ I'm a Frontend Developer/ Website Designer. I have loved everything about coding
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Gits and GitHub
+JavaScript, HTML, CSS, Gits and GitHub
 
